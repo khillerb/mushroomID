@@ -1,0 +1,18 @@
+# Core training stack
+torch>=2.2
+torchvision>=0.17
+
+# Data handling & metrics
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+Pillow>=10.0
+tqdm>=4.66
+
+# Evaluation plots
+matplotlib>=3.8
+
+# Dataset scraping (mushroomid/scrape.py)
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
